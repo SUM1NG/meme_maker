@@ -62,7 +62,7 @@ function onModeClick() {
     modeBtn.innerText = "Fill";
   } else {
     isFilling = true;
-    modeBtn.innerText = "Draw";
+    modeBtn.innerText = "🧺 Draw";
   }
 }
 
